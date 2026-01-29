@@ -14,7 +14,7 @@ func main() {
 	fmt.Println("Project: Task Management System!")
 
 	//The current project status (e.g., "active", "in progress").
-	var statusInProgress string = "IN PROGRESS"
+	statusInProgress := "IN PROGRESS"
 	//statusIsActive := "ACTIVE"
 	// The number of tasks created so far (integer).
 	taskCount := 25
