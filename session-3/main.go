@@ -47,7 +47,6 @@ func main() {
 	//If more than 60 tasks are completed, mark it as "Final phase".
 	switch {
 	case completedTasks < 30:
-
 		fmt.Println("Project is in the starting phase")
 	case completedTasks > 30 && completedTasks < 60:
 		fmt.Println("Project is in the midway")
