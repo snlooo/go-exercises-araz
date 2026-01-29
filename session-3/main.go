@@ -65,7 +65,7 @@ func main() {
 	}
 
 	//Implement a simple error-checking mechanism: if the tasks completed exceeds the total number of tasks,
-	//print an error message and reset the tasks completed to the maximum number.
+	//Print an error message and reset the tasks completed to the maximum number.
 	//Simulate an error scenario where the project cannot proceed if no tasks are completed. Use a custom error and handle it gracefully.
 	if completedTasks > totalCountOfTasks {
 		fmt.Println("exceeds the total number of tasks")
