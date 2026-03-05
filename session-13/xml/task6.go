@@ -54,7 +54,7 @@ func ReadConfigXml(db, username, password string, autoBackup bool, maxConnection
 		return flushError
 	}
 
-	fmt.Println("Successfully write config to config.xml")
+	fmt.Println("Successfully wrote config to config.xml")
 
 	return nil
 }
