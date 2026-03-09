@@ -10,7 +10,7 @@ The goal of this homework is to get you familiar with the basics of Go, setting 
 - At last your repository structure should be like below:
 
   ```bash
-  ├───session-1
+  ├───session-01
   │   ├───task-1
   │   │       screenshot.png
   │   │

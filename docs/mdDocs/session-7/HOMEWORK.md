@@ -9,13 +9,13 @@ In this session - Understanding Structs and Methods in Go. The tasks gradually b
 - At last your repository structure should be like below:
 
   ```bash
-  ├───session-1
-  ├───session-2
-  ├───session-3
-  ├───session-4
-  ├───session-5
-  ├───session-6
-  ├───session-7
+  ├───session-01
+  ├───session-02
+  ├───session-03
+  ├───session-04
+  ├───session-05
+  ├───session-06
+  ├───session-07
          model
          ───structs
               task1.go

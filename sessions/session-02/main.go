@@ -8,7 +8,7 @@ import (
 
 func main() {
 
-	// From session-1
+	// From session-01
 	fmt.Println("Welcome to the Task Management System!")
 	fmt.Println("Project start date is: " + time.Now().Format("2006-01-02 15:04:05"))
 	fmt.Println("Project: Task Management System!")

@@ -9,11 +9,11 @@ In this session - pointers in Go, homework is touching on the concepts of "under
 - At last your repository structure should be like below:
 
   ```bash
-  ├───session-1
-  ├───session-2
-  ├───session-3
-  ├───session-4
-  ├───session-5
+  ├───session-01
+  ├───session-02
+  ├───session-03
+  ├───session-04
+  ├───session-05
           task1.go
           task2.go
           task3.go

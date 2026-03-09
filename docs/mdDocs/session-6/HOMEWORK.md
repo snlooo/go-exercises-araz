@@ -9,12 +9,12 @@ In this session - Understanding Arrays, Slices and Map in Go, homework is touchi
 - At last your repository structure should be like below:
 
   ```bash
-  ├───session-1
-  ├───session-2
-  ├───session-3
-  ├───session-4
-  ├───session-5
-  ├───session-6
+  ├───session-01
+  ├───session-02
+  ├───session-03
+  ├───session-04
+  ├───session-05
+  ├───session-06
           task1
               main.go
           task2

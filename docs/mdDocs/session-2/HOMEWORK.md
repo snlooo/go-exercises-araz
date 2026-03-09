@@ -9,7 +9,7 @@ To reinforce the concepts of Go's data types, variables, constants, and formatti
 - At last your repository structure should be like below:
 
   ```bash
-  ├───session-2
+  ├───session-02
           go.mod
           main.go
   ```

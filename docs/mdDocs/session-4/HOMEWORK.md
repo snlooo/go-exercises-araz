@@ -9,10 +9,10 @@ In this session, you will refactor the `TaskManagementSystem` solution from Sess
 - At last your repository structure should be like below:
 
   ```bash
-  ├───session-1
-  ├───session-2
-  ├───session-3
-  ├───session-4
+  ├───session-01
+  ├───session-02
+  ├───session-03
+  ├───session-04
   └───TaskManagementSystem
           go.mod
           main.go

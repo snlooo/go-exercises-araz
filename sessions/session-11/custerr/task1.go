@@ -2,7 +2,6 @@ package custerr
 
 import (
 	"errors"
-	"fmt"
 )
 
 //Task 1: Create a Custom Error Type
